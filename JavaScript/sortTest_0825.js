@@ -1,3 +1,4 @@
+// 프로그래머스 문제
 function solution(array, commands) {
   let answer = [];
   for (let i = 0; i < commands.length; i++) {
