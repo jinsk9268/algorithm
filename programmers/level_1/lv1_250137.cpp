@@ -1,7 +1,7 @@
-/*
-문제 : 붕대 감기
-링크 : https://school.programmers.co.kr/learn/courses/30/lessons/250137
-*/
+/**
+ * 문제 : 붕대 감기
+ * 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/250137
+ */
 
 #include <string>
 #include <vector>

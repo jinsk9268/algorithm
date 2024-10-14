@@ -1,7 +1,7 @@
-/*
-문제 : 이웃한 칸
-링크 : https://school.programmers.co.kr/learn/courses/30/lessons/250125
-*/
+/**
+ * 문제 : 이웃한 칸
+ * 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/250125
+ */
 
 #include <string>
 #include <vector>

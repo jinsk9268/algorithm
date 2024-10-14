@@ -1,7 +1,7 @@
-/*
-문제 : 지폐 접기
-링크 : https://school.programmers.co.kr/learn/courses/30/lessons/340199
-*/
+/**
+ * 문제 : 지폐 접기
+ * 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/340199
+ */
 
 #include <string>
 #include <vector>
